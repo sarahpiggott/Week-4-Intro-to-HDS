@@ -1,0 +1,37 @@
+---
+title: "Week 4 Intro to HDS"
+author: "S Piggott"
+date: "2024-10-21"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+This is my first time writing an Rmarkdown. I hope it works!
+
+1. **List of things**
+    - *Thing 1*
+    - *Thing 2*
+2. **List of other things, but not italicised**
+    - Another thing 1
+    - Another thing 2
+
+## Plot
+
+Here is a simple plot. 
+
+```{r, echo = FALSE}
+plot(1:20, 20:1)
+```
+
+
+
+
+
+
